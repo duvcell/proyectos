@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DatosFormulario>
+	<Filas>2</Filas>
+	<ColumnaNombre>Nombre</ColumnaNombre>
+	<TipoNombre>Nombres</TipoNombre>
+	<EjemploNombre>Alex (cualquier sexo)</EjemploNombre>
+	<ColumnaApellido>Apellido</ColumnaApellido>
+	<TipoApellido>Nombres</TipoApellido>
+	<EjemploApellido>Smith (apellido)</EjemploApellido>
+	<ColumnaEdad>Edad</ColumnaEdad>
+	<TipoEdad>Rango numérico</TipoEdad>
+	<EdadMinima>18</EdadMinima>
+	<EdadMaxima>45</EdadMaxima>
+	<ColumnaTelefono>Teléfono</ColumnaTelefono>
+	<TipoTelefono>Teléfono / Fax</TipoTelefono>
+	<EjemploTelefono>Canada (2)</EjemploTelefono>
+	<ColumnaPais>País</ColumnaPais>
+	<TipoPais>País</TipoPais>
+	<ColumnaDireccion>Dirección</ColumnaDireccion>
+	<TipoDireccion>Dirección</TipoDireccion>
+</DatosFormulario>
