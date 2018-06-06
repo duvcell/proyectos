@@ -23,8 +23,9 @@ public class MainTest {
 		driver = new ChromeDriver();
 
 		driver.manage().window().maximize();
-
+		//URL de la página
 		driver.get("http://www.generatedata.com/?lang=es");
+		
 		}
 	
 	@Test 
