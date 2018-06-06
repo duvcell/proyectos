@@ -25,9 +25,7 @@ public class MainTest {
 		driver.manage().window().maximize();
 
 		driver.get("http://www.generatedata.com/?lang=es");
-		//Ruta para paginas descargada
-		//driver.get("file:///D:/SeleniumEjemplos/REto%20Curso%20Selenium/PaginaFormulario/generate.php.html");
-	}
+		}
 	
 	@Test 
 	public void llenarFormulario() throws InterruptedException, IOException {
